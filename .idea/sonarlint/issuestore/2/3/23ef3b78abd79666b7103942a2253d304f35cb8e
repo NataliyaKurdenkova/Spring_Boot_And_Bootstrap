@@ -1,0 +1,24 @@
+
+‰
+java:S1192,"FDefine a constant instead of duplicating this literal "admin" 3 times.(§®¿8ƒ‡İıº2J$65cbd717-3696-4d43-a363-c353a875f96c
+Ÿ
+java:S1104"WMake userService a static final constant or non-public and provide accessors if needed.(õœÄıÿÿÿÿ8êüİıº2J$758d007e-5550-4fad-9ea8-c86125513f2f
+Ÿ
+java:S1104"WMake roleService a static final constant or non-public and provide accessors if needed.(·ÉŸ—ûÿÿÿÿ8êüİıº2J$a3fb8a16-6393-423b-9576-635017ec68f8
+y
+java:S1444"1Make this "public static userService" field final(õœÄıÿÿÿÿ8ìüİıº2J$018cc3b2-fafc-4253-b478-bf541c41de8d
+y
+java:S1444"1Make this "public static roleService" field final(·ÉŸ—ûÿÿÿÿ8ìüİıº2J$7ae5b657-f132-4d98-bc21-532df949b5c3
+p
+java:S3010"(Remove this assignment of "userService".(Èİéîûÿÿÿÿ8™‡İıº2J$137433f0-2137-4c0c-bfd6-6a935ec054f9
+k
+java:S3010"(Remove this assignment of "roleService".(Ú¹¡—8š‡İıº2J$1ce48272-9b32-4bdc-9288-19a7d0905985
+}
+java:S2209"5Change this instance-reference to a static reference.(Èİéîûÿÿÿÿ8›‡İıº2J$47a9126d-54f0-479f-8c51-0d1986f5f0a0
+x
+java:S2209"5Change this instance-reference to a static reference.(Ú¹¡—8›‡İıº2J$c334f6bf-444e-4026-8558-49d1c348fbb6
+™
+java:S1128	"VRemove this unused import 'ru.kata.spring.boot_security.demo.service.RoleServiceImpl'.(‹¨ß8ñ¡º»2J$36aacd53-00dd-47c7-9f66-119d9b81f918
+™
+java:S1128
+"VRemove this unused import 'ru.kata.spring.boot_security.demo.service.UserServiceImpl'.(”²§Ñ8ñ¡º»2J$9036813c-ecf6-4caf-a7a2-9544e7f816ca

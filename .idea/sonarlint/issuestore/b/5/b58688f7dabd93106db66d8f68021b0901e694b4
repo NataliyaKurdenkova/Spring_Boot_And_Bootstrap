@@ -1,12 +1,12 @@
 
 ˜
 java:S11924"PDefine a constant instead of duplicating this literal "redirect:/admin" 3 times.(…Öºıÿÿÿÿ8ÓŞŞ§»2J$ef1a175a-f836-40b6-983c-37fb234b9fa4
-‹
-java:S3655%"HCall "user.isPresent()" or "!user.isEmpty()" before accessing the value.(€ì“·8–„”¥»2J$253099ec-d5b1-4834-9b04-e797c75a84f1
-“
-java:S3655="PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ğ‡•“8—„”¥»2J$40d2c0b9-bafb-49f2-ae4b-6b4fc2782501
 “
 java:S36550"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ğ‡•“8—„”¥»2J$2fe307f1-aa5d-47e6-913d-6b4cdba41d71
+“
+java:S3655="PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ğ‡•“8—„”¥»2J$40d2c0b9-bafb-49f2-ae4b-6b4fc2782501
+‹
+java:S3655%"HCall "user.isPresent()" or "!user.isEmpty()" before accessing the value.(€ì“·8–„”¥»2J$253099ec-d5b1-4834-9b04-e797c75a84f1
 q
 java:S68569".Bind path variable "id" to a method parameter.(ÏÚ­­8›„”¥»2J$0c8e56fb-0387-4a37-9717-13e75abffd96
 q

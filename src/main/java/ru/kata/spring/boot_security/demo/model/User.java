@@ -22,16 +22,14 @@ public class User implements UserDetails {
     @Column(name = "last_name")
     private String lastName;
 
-    @Column(name = "age")
     private int age;
 
-    @Column(name = "email", unique = true)
+    @Column(unique = true)
     private String email;
 
-    @Column(name = "password")
     private String password;
 
-    @ManyToMany(fetch = FetchType.EAGER)
+    @ManyToMany
     @JoinTable(name = "user_roles",
             joinColumns = @JoinColumn(name = "user_id"),
             inverseJoinColumns = @JoinColumn(name = "role_id")
@@ -40,8 +38,6 @@ public class User implements UserDetails {
 
 
     public User() {
-
-
     }
 
     public User(String firstName, String lastName, int age, String email, String password, Set<Role> roles) {

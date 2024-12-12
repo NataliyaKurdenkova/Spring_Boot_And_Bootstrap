@@ -1,7 +1,7 @@
 
+
+java:S36559"NCall "oldUser.isPresent()" or "!oldUser.isEmpty()" before accessing the value.(ÔĞˆ18äƒüÔ»2J$82336f48-16ee-4dce-b12a-2ab3aa153b24
 “
-java:S3655Y"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¾¥Ë›8¶‘±»2J$a4b703cb-4085-478c-9d37-40dd41197f8c
-œ
-java:S41443"TUpdate this method so that its implementation is not identical to "save" on line 36.(óç„¶ûÿÿÿÿ8Á©ª»2J$4bc839b5-b001-4fdb-9397-47aa75a96501
+java:S3655_"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¾¥Ë›8Â„úÔ»2J$75f8aa24-5445-42f8-ad97-60555b32588d
 •
-java:S6204b"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¶ğ—ñ8Ë‘±»2J$277bb297-7100-45de-99d7-ce9f909f1c29
+java:S6204h"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¶ğ—ñ8Õ„úÔ»2J$618c3480-1f06-40f3-ad20-a907d7ebdcfb
